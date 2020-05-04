@@ -1,4 +1,3 @@
-
 ## DynoScaler
 
 ### Author:
@@ -69,4 +68,3 @@ Considetation:
     *   If any ElaticSearch varibles (ELK_<Varible>) are not provided, logs (dictionary with information) will not be indexed
         and logs will be displayed in the terminal.
     *   This Class is still volatil. In future versions the amount of Dynos will be set with more stable algorith.
-
